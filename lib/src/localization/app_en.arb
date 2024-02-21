@@ -1,0 +1,6 @@
+{
+  "appTitle": "xdatacore",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
